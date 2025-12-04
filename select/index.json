@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "初音ミクの消失",
+  "base_artist": "cosMo＠暴走P",
+  "createdAt": "2025-12-04T09:26:25.386555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo＠暴走P feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_初音ミクの消失_cosMo@暴走P_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo feat. 弟の姉",
+      "has_synced": true,
+      "path": "select/02_初音ミクの消失_cosMo_feat._弟の姉.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P feat.初音ミク",
+      "has_synced": true,
+      "path": "select/03_初音ミクの消失_cosMo@暴走P_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "初音ミクの消失 - Moonbug remix",
+      "artist": "COSMO",
+      "has_synced": false,
+      "path": "select/04_初音ミクの消失_-_Moonbug_remix_COSMO.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "初音ミクの消失(feat.石川綾子)",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/05_初音ミクの消失(feat.石川綾子)_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/06_初音ミクの消失_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_初音ミクの消失_cosMo@暴走P_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/08_初音ミクの消失_SymaG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/09_初音ミクの消失_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "初音ミクの消失 (feat. Hatsune Miku)",
+      "artist": "cosMo＠暴走P",
+      "has_synced": false,
+      "path": "select/10_初音ミクの消失_(feat._Hatsune_Miku)_cosMo@暴走P.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "初音ミクの消失 -MIKUNOPOLIS in LOS ANGELES Live-",
+      "artist": "cosMo@Bousou-P",
+      "has_synced": false,
+      "path": "select/11_初音ミクの消失_-MIKUNOPOLIS_in_LOS_ANGELES_Live-_cosMo@Bousou-P.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/12_初音ミクの消失_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@BousouP feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/13_初音ミクの消失_cosMo@BousouP_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/14_初音ミクの消失_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_初音ミクの消失_cosMo@暴走P_Feat._初音ミク.txt"
+    }
+  ]
+}
